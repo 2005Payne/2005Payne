@@ -1,6 +1,8 @@
 <html>
   <head>
-    
+    body {
+      background-image:url(./topimg.jpg);
+    }
   </head>
   <body>
     <img src=./topimg.jpg>
