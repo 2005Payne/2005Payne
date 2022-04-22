@@ -1,6 +1,11 @@
 
 <html>
   <head>
+    <style>
+      strong{
+        color:red;
+      }
+    </style>
   </head>
   <body>
     <img src=./topimg.jpg>
