@@ -4,7 +4,7 @@
   </head>
   <body>
     <img src=./topimg.jpg>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=&logoColor=white"/></a>
     <table align="center">
       <tr align="center">
         <th>희망 분야</th>
@@ -14,7 +14,7 @@
       </tr>
       <tr align="center">
         <th>사용언어</th>
-        <td>주로 파이썬을 사용하고 그다음으로는 java를 사용합니다.</td>
+        <td>주로 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>을 사용하고 그다음으로는 java를 사용합니다.</td>
       </tr>
       <tr align="center">
         <td colspan="2">그다음 해봤던 언어로는 c언어 유니티c# 과 html 등이 있습니다.</td>
