@@ -13,10 +13,10 @@
       </tr>
       <tr align="center">
         <th>사용언어</th>
-        <td>주로 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>을 사용하고 그다음으로는 java를 사용합니다.</td>
+        <td><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a></td>
       </tr>
       <tr align="center">
-        <td colspan="2">그다음 해봤던 언어로는 c언어 유니티c# 과 html 등이 있습니다.</td>
+        <td colspan="2">c언어 유니티c# 자바 언어로 분류하기 힘든것 html,css,sqlplus,</td>
       </tr>
       <tr align="center">
         <th>성격</th>
