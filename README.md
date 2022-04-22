@@ -1,13 +1,8 @@
-###자기소개
+
 <html>
   <head>
-    <style>
-      body{
-        background-color:yellow;
-      }
-    </style>
   </head>
-  <body backgournd-color:yellow>
+  <body style="backgournd-color:yellow">
     <img src=./topimg.jpg>
     <table align="center">
       <tr>
