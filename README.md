@@ -33,7 +33,7 @@
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/kakaoAutoMacro">급식알림 매크로</a</td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/2005Payne/blob/main/topimg.jpg">자바fx를 이용한 계산기(소스코드 실종)</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Calculator">자바fx를 이용한 계산기(소스코드 실종)</a</td>
       </tr>
     </table>
     <h1>성장과정</h1>
