@@ -9,11 +9,11 @@
         <th>희망 분야</th>
         <td>보안</td>
       <tr>
-        <td colspan="2">제가 하고싶은 보안분야는 포너블(Pwnable) 입니다. <br></br>지금은 잘 못하지만 차근차근 공부하고 있습니다.</td>
+        <td colspan="2" align="center">제가 하고싶은 보안분야는 포너블(Pwnable) 입니다. <br></br>지금은 잘 못하지만 차근차근 공부하고 있습니다.</td>
       </tr>
       <tr>
         <th>사용언어</th>
-        <td>주로 파이썬을 사용하고 그다음으로는 java를 사용합니다.</td>
+        <td align="center">주로 파이썬을 사용하고 그다음으로는 java를 사용합니다.</td>
       </tr>
       <tr>
         <td colspan="2">그다음 해봤던 언어로는 c언어 유니티c# 과 html 등이 있습니다.</td>
