@@ -1,40 +1,35 @@
 
 <html>
   <head>
-    <style>
-      td,th{
-        text-align:center;
-      }
-    </style>
   </head>
   <body>
     <img src=./topimg.jpg>
     <table align="center">
-      <tr>
+      <tr align="center">
         <th>희망 분야</th>
         <td>보안</td>
-      <tr>
+      <tr align="center">
         <td colspan="2">제가 하고싶은 보안분야는 포너블(Pwnable) 입니다. <br></br>지금은 잘 못하지만 차근차근 공부하고 있습니다.</td>
       </tr>
-      <tr>
+      <tr align="center">
         <th>사용언어</th>
         <td>주로 파이썬을 사용하고 그다음으로는 java를 사용합니다.</td>
-      </tr>
+      </tr align="center">
       <tr>
         <td colspan="2">그다음 해봤던 언어로는 c언어 유니티c# 과 html 등이 있습니다.</td>
       </tr>
-      <tr>
+      <tr align="center">
         <th>성격</th>
         <td>제 성격은 귀찮은것을 싫어합니다. 이것이 제 단점이기도 하면서 장점이기도 합니다.<br></br> 그 이유는 아래 급식알림매크로 프로그램을 보면 알 수 있습니다.</td>
       </tr>
-      <tr>
+      <tr align="center">
         <th>블로그
         <td>이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.&nbsp;<a href=https://blog.naver.com/qkrwodn8235>블로그 바로가기</a>
       </tr>
-      <tr>
+      <tr align="center">
         <th colspan="2">프로젝트</th>
       </tr>
-      <tr>
+      <tr align="center">
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/kakaoAutoMacro">급식알림 매크로</a</td>
       </tr>
       <tr>
