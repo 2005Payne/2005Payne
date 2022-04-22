@@ -16,7 +16,7 @@
         <td><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a></td>
       </tr>
       <tr align="center">
-        <td colspan="2">c언어 유니티c# 자바 언어로 분류하기 힘든것 html,css,sqlplus,</td>
+        <td colspan="2">c,c#,Java을 사용해봤습니다.</td>
       </tr>
       <tr align="center">
         <th>성격</th>
