@@ -27,10 +27,10 @@
         <td>이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.&nbsp;<a href=https://blog.naver.com/qkrwodn8235>블로그 바로가기</a>
       </tr>
       <tr>
-        <th colspan="2" align="center">개발한 프로그램들</th>
+        <th colspan="2">개발한 프로그램들</th>
       </tr>
       <tr>
-        <td colspan="2"><a href="https://github.com/2005Payne/kakaoAutoMacro">급식알림 매크로</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/kakaoAutoMacro">급식알림 매크로</a</td>
       </tr>
     </table>
     <h1>성장과정</h1>
