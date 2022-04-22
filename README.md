@@ -27,13 +27,16 @@
         <td>이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.&nbsp;<a href=https://blog.naver.com/qkrwodn8235>블로그 바로가기</a>
       </tr>
       <tr>
-        <th colspan="2">개발한 프로그램들</th>
+        <th colspan="2">프로젝트</th>
       </tr>
       <tr>
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/kakaoAutoMacro">급식알림 매크로</a</td>
       </tr>
       <tr>
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/-Caesar">카이사르 복호화 도구</a</td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/-Caesar">국어수행평가 글자 수 대신 count해주는 프로그램</a</td>
       </tr>
       <tr>
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/Calculator">자바fx를 이용한 계산기(소스코드 실종)</a</td>
