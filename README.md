@@ -32,6 +32,9 @@
       <tr>
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/kakaoAutoMacro">급식알림 매크로</a</td>
       </tr>
+      <tr>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/2005Payne/blob/main/topimg.jpg">자바fx를 이용한 계산기(소스코드 실종)</a</td>
+      </tr>
     </table>
     <h1>성장과정</h1>
     &nbsp;저는 시험성적을 20점받아와도 잘했다며 칭찬해주시는 부모님 밑에서 자유롭게 자랐습니다.<br>
