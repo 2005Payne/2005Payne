@@ -2,7 +2,7 @@
 <html>
   <head>
   </head>
-  <body style="backgournd-color:yellow">
+  <body>
     <img src=./topimg.jpg>
     <table align="center">
       <tr>
