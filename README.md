@@ -30,16 +30,16 @@
         <th colspan="2">프로젝트</th>
       </tr>
       <tr align="center">
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/kakaoAutoMacro" target="_blank">급식알림 매크로</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/kakaoAutoMacro" >급식알림 매크로</a</td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/-Caesar" target="_blank">카이사르 복호화 도구</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/-Caesar">카이사르 복호화 도구</a</td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/String-Count" target="_blank">국어수행평가 글자 수 대신 count해주는 프로그램</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/String-Count">국어수행평가 글자 수 대신 count해주는 프로그램</a</td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Calculator" target="_blank">자바fx를 이용한 계산기(소스코드 실종)</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Calculator">자바fx를 이용한 계산기(소스코드 실종)</a</td>
       </tr>
     </table>
     <h1>성장과정</h1>
