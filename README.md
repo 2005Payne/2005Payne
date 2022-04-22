@@ -16,8 +16,7 @@
     <h3>급식알림매크로(https://github.com/2005Payne/kakaoAutoMacro)<br></br></h3>
     <h1>블로그
     <h3>이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.
-    <a href=https://blog.naver.com/qkrwodn8235></a>
-      https://blog.naver.com/qkrwodn8235/222705408544
+    <a href=https://blog.naver.com/qkrwodn8235>블로그 바로가기</a>
   </body>
   <h1>
 </html>
