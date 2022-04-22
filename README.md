@@ -36,7 +36,7 @@
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/-Caesar">카이사르 복호화 도구</a</td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/-Caesar">국어수행평가 글자 수 대신 count해주는 프로그램</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/String-Count">국어수행평가 글자 수 대신 count해주는 프로그램</a</td>
       </tr>
       <tr>
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/Calculator">자바fx를 이용한 계산기(소스코드 실종)</a</td>
