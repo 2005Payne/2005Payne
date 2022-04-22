@@ -14,6 +14,10 @@
     <h3>제 성격은 귀찮은것을 싫어합니다. 이것이 제 장점입니다.<br></br> 그 이유는 아래 급식알림매크로 프로그램을 보면 알 수 있습니다.</h3>
     <h1>개발한 프로그램들</h1>
     <h3>급식알림매크로(https://github.com/2005Payne/kakaoAutoMacro)<br></br></h3>
+    <h1>블로그
+    <h3>이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.
+    <a href=https://blog.naver.com/qkrwodn8235></a>
+      https://blog.naver.com/qkrwodn8235/222705408544
   </body>
   <h1>
 </html>
