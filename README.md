@@ -4,6 +4,7 @@
   </head>
   <body>
     <img src=./topimg.jpg>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
     <table align="center">
       <tr align="center">
         <th>희망 분야</th>
