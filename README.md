@@ -24,22 +24,22 @@
       </tr>
       <tr align="center">
         <th>블로그
-        <td>이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.&nbsp;<a href=https://blog.naver.com/qkrwodn8235>블로그 바로가기</a>
+        <td>이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.&nbsp;<a target="_blank" href="https://blog.naver.com/qkrwodn8235">블로그 바로가기</a>
       </tr>
       <tr align="center">
         <th colspan="2">프로젝트</th>
       </tr>
       <tr align="center">
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/kakaoAutoMacro">급식알림 매크로</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/kakaoAutoMacro" target="_blank">급식알림 매크로</a</td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/-Caesar">카이사르 복호화 도구</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/-Caesar" target="_blank">카이사르 복호화 도구</a</td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/String-Count">국어수행평가 글자 수 대신 count해주는 프로그램</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/String-Count" target="_blank">국어수행평가 글자 수 대신 count해주는 프로그램</a</td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Calculator">자바fx를 이용한 계산기(소스코드 실종)</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Calculator" target="_blank">자바fx를 이용한 계산기(소스코드 실종)</a</td>
       </tr>
     </table>
     <h1>성장과정</h1>
