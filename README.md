@@ -7,7 +7,7 @@
     <table align="center">
       <tr>
         <th>희망 분야</th>
-        <td>보안입니다</td>
+        <td>보안</td>
       <tr>
         <td colspan="2">제가 하고싶은 보안분야는 포너블(Pwnable) 입니다. <br></br>지금은 잘 못하지만 차근차근 공부하고 있습니다.</td>
       </tr>
