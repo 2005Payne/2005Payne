@@ -22,7 +22,7 @@
         <th>성격</th>
         <td>제 성격은 귀찮은것을 싫어합니다. 이것이 제 단점이기도 하면서 장점이기도 합니다.<br></br> 그 이유는 아래 급식알림매크로 프로그램을 보면 알 수 있습니다.</td>
       </tr>
-      <tr align="center">
+      <tr align="center" rowspan="2">
         <th>블로그
         <td>이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.&nbsp;<a target="_blank" href="https://blog.naver.com/qkrwodn8235">블로그 바로가기</a>
       </tr>
