@@ -24,7 +24,7 @@
       </tr>
       <tr align="center">
         <th>블로그
-        <td rowspan="3">이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.&nbsp;<a target="_blank" href="https://blog.naver.com/qkrwodn8235">블로그 바로가기</a>
+        <td>이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.<font size="5"><br><a target="_blank" href="https://blog.naver.com/qkrwodn8235">블로그 바로가기</font></a>
       </tr>
       <tr align="center">
         <th colspan="2">프로젝트</th>
