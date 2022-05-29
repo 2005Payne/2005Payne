@@ -47,6 +47,9 @@
       <tr>
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/BaseballGame">야구게임(자바)</a></td>
       </tr>
+      <tr>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/xorTool">xor연산기(파이썬)</a></td>
+      </tr>
     </table>
     <h1>성장과정</h1>
     &nbsp;저는 시험을 망쳐와도 잘했다며 칭찬해주시는 부모님 밑에서 자유롭게 자랐습니다.<br>
