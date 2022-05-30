@@ -45,7 +45,7 @@
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/Calculator">자바fx를 이용한 계산기(소스코드 실종)</a</td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/BaseballGame">야구게임(자바)</a></td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Sort">정렬(자바)</a></td>
       </tr>
       <tr>
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/xorTool">xor연산기(파이썬)</a></td>
