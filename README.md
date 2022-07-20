@@ -30,10 +30,10 @@
         <th colspan="2">프로젝트</th>
       </tr>
       <tr align="center">
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Login" >로그인/회원가입(비밀번호 암호화)</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Login" >※제일 자신있는 작품※로그인/회원가입(비밀번호 암호화)</a</td>
       </tr>
       <tr align="center">
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/kakaoAutoMacro" >급식알림 매크로</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/kakaoAutoMacro" >※두 번째로 자신있는 작품※급식알림 매크로</a</td>
       </tr>
       <tr>
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/-Caesar">카이사르 복호화 도구</a</td>
