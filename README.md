@@ -42,6 +42,9 @@
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/-Caesar">카이사르 복호화 도구</a</td>
       </tr>
       <tr>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/xorTool">xor연산기(파이썬)</a></td>
+      </tr>
+      <tr>
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/String-Count">국어수행평가 글자 수 대신 count해주는 프로그램</a</td>
       </tr>
       <tr>
@@ -54,7 +57,7 @@
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/Sort">정렬(자바)</a></td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/xorTool">xor연산기(파이썬)</a></td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/baby_chiken_run">유니티로 만든 병아리 게임)</a></td>
       </tr>
     </table>
   </body>
