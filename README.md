@@ -9,7 +9,7 @@
         <th>희망 분야</th>
         <td>보안</td>
       <tr align="center">
-        <td colspan="2">제가 하고싶은 보안분야는 포너블(Pwnable) 입니다. <br></br>지금은 잘 못하지만 차근차근 공부하고 있습니다.</td>
+        <td colspan="2">지금 공부 중인 보안분야는 포너블(Pwnable)과 리버싱 입니다. <br></br>지금은 잘 못하지만 차근차근 공부하고 있습니다.</td>
       </tr>
       <tr align="center">
         <th>사용언어</th>
@@ -58,6 +58,12 @@
       </tr>
       <tr>
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/baby_chiken_run">유니티로 만든 병아리 게임)</a></td>
+      </tr>
+      <tr>
+        <td align="center">리버싱</td>
+      </tr>
+      <tr>
+        <td align="center">포너블</td>
       </tr>
     </table>
   </body>
