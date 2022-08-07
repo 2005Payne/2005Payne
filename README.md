@@ -23,10 +23,6 @@
         <td>제 성격은 귀찮은것을 싫어합니다. 이것이 제 단점이기도 하면서 장점이기도 합니다.<br></br> 그 이유는 아래 급식알림매크로 프로그램을 보면 알 수 있습니다.</td>
       </tr>
       <tr align="center">
-        <th>블로그
-        <td>이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.<br><a target="_blank" href="https://blog.naver.com/qkrwodn8235">블로그 바로가기</a>
-      </tr>
-      <tr align="center">
         <th colspan="2">프로젝트</th>
       </tr>
       <tr align="center">
@@ -60,11 +56,15 @@
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/baby_chiken_run">유니티로 만든 병아리 게임)</a></td>
       </tr>
       <tr>
-        <td align="center">리버싱</td>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Pwnable"> 정리</a</td>
+        <th colspan="2" align="center"> 공부한 내용 정리(보안관련)</th>   
+      </tr>
+      <tr align="center">
+        <td>블로그</td>
+        <td>이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.<br><a target="_blank" href="https://blog.naver.com/qkrwodn8235">블로그 바로가기</a>
       </tr>
       <tr>
         <td align="center">포너블</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Pwnable">포너블 정리</a</td>
       </tr>
     </table>
   </body>
