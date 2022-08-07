@@ -61,7 +61,7 @@
       </tr>
       <tr>
         <td align="center">리버싱</td>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Pwnable">자바fx를 이용한 계산기(소스코드 실종)</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Pwnable"> 정리</a</td>
       </tr>
       <tr>
         <td align="center">포너블</td>
