@@ -62,10 +62,7 @@
         <td>블로그</td>
         <td>이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.<br><a target="_blank" href="https://blog.naver.com/qkrwodn8235">블로그 바로가기</a>
       </tr>
-      <tr>
-        <td align="center">포너블</td>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Pwnable">배운내용 정리</a</td>
-      </tr>
+
     </table>
   </body>
 </html>
