@@ -27,7 +27,7 @@
   
       </tr>
       <tr align="center">
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/kakaoAutoMacro" >▣▣급식알림 매크로▣▣</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/kakaoAutoMacro" >▣▣급식알림 매크로▣▣</a></td>
       </tr>
       </tr>
       <tr align="center">
