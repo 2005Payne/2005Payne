@@ -64,7 +64,7 @@
       </tr>
       <tr>
         <td align="center">포너블</td>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Pwnable">포너블 정리</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Pwnable">배운내용 정리</a</td>
       </tr>
     </table>
   </body>
