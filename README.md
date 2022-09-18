@@ -47,9 +47,6 @@
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/LottoRandomChoice">로또번호자동생성기(자바)</a></td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Calculator">자바fx를 이용한 계산기(소스코드 실종)</a</td>
-      </tr>
-      <tr>
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/Sort">정렬(자바)</a></td>
       </tr>
       <tr>
