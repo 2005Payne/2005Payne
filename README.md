@@ -13,7 +13,7 @@
       </tr>
       <tr align="center">
         <th>사용언어</th>
-        <td><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>으로 생활에서 귀찮았던 문제들을 조금 해결해봤습니다. 아래 프로젝트 참고</td>
+        <td><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>으로 생활에서 불편했던 문제들을 조금 해결해봤습니다. 아래 프로젝트 참고</td>
       </tr>
       <tr align="center">
         <td colspan="2">c언어로 아두이노를 해보았고.c#으로 유니티를 했습니다.<br>Java는 학교에서 배웠습니다.(깃허브를 하기 전이라 파일이 없습니다.)<br>리버싱과 시스템 해킹을 배우기 위해서 어셈블리도 배웠습니다.</td>
