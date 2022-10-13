@@ -60,9 +60,18 @@
         <td>이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.<br><a target="_blank" href="https://blog.naver.com/qkrwodn8235">블로그 바로가기</a>
       </tr>
       <tr align="center">
-        <td>정리</td>
-        <td><a href="https://github.com/2005Payne/ArduinoStudy">아두이노 정리</a>
+        <th>정리</th>
+        <td><a href="https://github.com/2005Payne/ArduinoStudy">아두이노 정리</a></td>
       </tr>
-
+      <tr align="center">
+        <th>보안 공부중</th>
+      </tr>
+      <tr align="center">
+        <td>네트워크</td>
+      </tr>
+      <tr align="center">
+        <td></td>
+      </tr>
+      
   </body>
 </html>
