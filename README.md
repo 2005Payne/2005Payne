@@ -64,7 +64,7 @@
         <td><a href="https://github.com/2005Payne/ArduinoStudy">아두이노 정리</a></td>
       </tr>
       <tr align="center">
-        <th>보안 공부중</th>
+        <th colspan="2">보안 공부중</th>
       </tr>
       <tr align="center">
         <td colspan="2"><a href="">네트워크</a></td>
