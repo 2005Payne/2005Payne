@@ -60,9 +60,6 @@
         <th colspan="2">보안 공부중</th>
       </tr>
       <tr align="center">
-        <td colspan="2"><a href="">네트워크</a></td>
-      </tr>
-      <tr align="center">
         <td colspan="2"><a href="">리버스엔지니어링</a></td>
       </tr>
       <tr align="center">
