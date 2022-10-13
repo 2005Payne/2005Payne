@@ -66,10 +66,7 @@
         <td colspan="2"><a href="">리버스엔지니어링</a></td>
       </tr>
       <tr align="center">
-        <td colspan="2">이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.</td>
-      </tr>
-      <tr align="center">
-        <td colspan="2"><a target="_blank" href="https://blog.naver.com/qkrwodn8235">블로그</a></td>
+        <td colspan="2"><a target="_blank" href="https://blog.naver.com/qkrwodn8235">이 블로그는 제가 보안공부를 한것 중 몇가지를 올린 블로그입니다.</a></td>
       </tr>
   </body>
 </html>
