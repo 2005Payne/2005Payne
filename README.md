@@ -37,9 +37,6 @@
       <tr>
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/-Caesar">카이사르 복호화 도구</a</td>
       </tr>
-      <tr align="center">
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/pointerStudy" >C언어 포인터 예제</a</td>
-      </tr>
       <tr>
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/xorTool">xor연산기(파이썬)</a></td>
       </tr>
@@ -55,14 +52,14 @@
       <tr>
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/baby_chiken_run">유니티로 만든 병아리 게임)</a></td>
       </tr>
-      <tr align="center>
-        <th>정리&복습&예제</th>
+      <tr align="center">
+        <th colspan="2">정리&복습&예제</th>
       </tr>
       <tr align="center">
-        <td colspan="center"><a href="https://github.com/2005Payne/ArduinoStudy">아두이노 정리</a></td>
+        <td colspan="2"><a href="https://github.com/2005Payne/ArduinoStudy">아두이노 정리</a></td>
       </tr>
       <tr align="center">
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/AsciiTools" >16진수 아스키코드 번역기</a</td>
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/pointerStudy" >C언어 포인터</a</td>
       </tr>
       <tr align="center">
         <th colspan="2">보안 공부중</th>
