@@ -62,6 +62,8 @@
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/pointerStudy" >C언어 포인터</a</td>
       </tr>
       <tr align="center">
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/testResult">C언어 성적처리</a></td>
+      <tr align="center">
         <th colspan="2">보안 공부중</th>
       </tr>
       <tr align="center">
