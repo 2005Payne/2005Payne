@@ -9,7 +9,7 @@
         <th>희망 분야</th>
         <td>보안</td>
       <tr align="center">
-        <td colspan="2">지금 공부 중인 보안분야는 포너블(Pwnable)과 리버싱 입니다. <br></br>지금은 잘 못하지만 차근차근 공부하고 있습니다.</td>
+        <td colspan="2">지금 공부 중인 보안분야는 리버싱과  입니다. <br></br>지금은 잘 못하지만 차근차근 공부하고 있습니다.</td>
       </tr>
       <tr align="center">
         <th>사용언어</th>
