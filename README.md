@@ -32,6 +32,9 @@
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/Login" >▣로그인/회원가입(비밀번호 암호화)▣</a</td>
       </tr>
       <tr align="center">
+        <td colspan="2" align="center"><a href="https://github.com/2005Payne/IDAascii" >아이다 16진수 변환기</a</td>
+      </tr>
+      <tr align="center">
         <td colspan="2" align="center"><a href="https://github.com/2005Payne/AsciiTools" >16진수 아스키코드 번역기</a</td>
       </tr>
       <tr>
