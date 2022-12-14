@@ -25,48 +25,43 @@
     </table>
     <table>
       <tr align="center">
-        <th colspan="2">프로젝트</th>
-        <th colspan="2">알고리즘 OR 보안도구</th>
+        <th >프로젝트</th>
+        <th >알고리즘 OR 보안도구</th>
       </tr>
       <tr align="center">
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/kakaoAutoMacro" >▣▣급식알림 매크로▣▣</a</td>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/IDAascii" >아이다 16진수 변환기</a</td>
+        <td align="center"><a href="https://github.com/2005Payne/kakaoAutoMacro" >▣▣급식알림 매크로▣▣</a</td>
+        <td align="center"><a href="https://github.com/2005Payne/IDAascii" >아이다 16진수 변환기</a</td>
       </tr>
       <tr align="center">
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Login" >▣로그인/회원가입(비밀번호 암호화)▣</a</td>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/AsciiTools" >16진수 아스키코드 번역기</a</td>
+        <td align="center"><a href="https://github.com/2005Payne/Login" >▣로그인/회원가입(비밀번호 암호화)▣</a</td>
+        <td align="center"><a href="https://github.com/2005Payne/AsciiTools" >16진수 아스키코드 번역기</a</td>
       </tr>
       <tr>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/baby_chiken_run">유니티로 만든 병아리 게임)</a></td>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/-Caesar">카이사르 복호화 도구</a</td>
+        <td align="center"><a href="https://github.com/2005Payne/baby_chiken_run">유니티로 만든 병아리 게임)</a></td>
+        <td align="center"><a href="https://github.com/2005Payne/-Caesar">카이사르 복호화 도구</a</td>
       </tr>
       <tr align="center">
-        <th colspan="2">정리&복습&예제</th>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/xorTool">xor연산기(파이썬)</a></td>
+        <th>정리&복습&예제</th>
+        <td align="center"><a href="https://github.com/2005Payne/xorTool">xor연산기(파이썬)</a></td>
       </tr>
       <tr align="center">
-        <td colspan="2"><a href="https://github.com/2005Payne/ArduinoStudy">아두이노 정리</a></td>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/String-Count">국어수행평가 글자 수 대신 count해주는 프로그램</a</td>
+        <td align="center"><a href="https://github.com/2005Payne/ArduinoStudy">아두이노 정리</a></td>
+        <td align="center"><a href="https://github.com/2005Payne/String-Count">국어수행평가 글자 수 대신 count해주는 프로그램</a</td>
       </tr>
       <tr align="center">
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/pointerStudy" >C언어 포인터</a</td>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/LottoRandomChoice">로또번호자동생성기(자바)</a></td>
+        <td align="center"><a href="https://github.com/2005Payne/pointerStudy" >C언어 포인터</a</td>
+        <td align="center"><a href="https://github.com/2005Payne/LottoRandomChoice">로또번호자동생성기(자바)</a></td>
       </tr>
       <tr align="center">
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/testResult">C언어 성적처리</a></td>
-        <td colspan="2" align="center"><a href="https://github.com/2005Payne/Sort">정렬(자바)</a></td>
+        <td align="center"><a href="https://github.com/2005Payne/testResult">C언어 성적처리</a></td>
+        <td align="center"><a href="https://github.com/2005Payne/Sort">정렬(자바)</a></td>
       <tr align="center">
         <th colspan="2">보안 공부중</th>
       </tr>
       <tr align="center">
-        <td colspan="2"><a href="https://github.com/2005Payne/ReverseEngineering">리버스엔지니어링</a></td>
-      </tr>
-      <tr align="center">
-        <td colspan="2"><a href="https://github.com/2005Payne/Linux">리눅스명령어</a></td>
-      </tr>
-      <tr align="center">
-        <td colspan="2"><a target="_blank" href="https://blog.naver.com/qkrwodn8235">이 블로그는 보안스터디를 하며 학습한 내용을 정리한 블로그 입니다.</a></td>
-      </tr>   
+        <td><a href="https://github.com/2005Payne/Linux">리눅스명령어</a></td>
+        <td><a target="_blank" href="https://blog.naver.com/qkrwodn8235">이 블로그는 보안스터디를 하며 학습한 내용을 정리한 블로그 입니다.</a></td>
+      </tr>  
     </table>
   </body>
 </html>
