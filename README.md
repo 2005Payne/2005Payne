@@ -55,6 +55,9 @@
       <tr align="center">
         <td align="center"><a href="https://github.com/2005Payne/testResult">C언어 성적처리</a></td>
         <td align="center"><a href="https://github.com/2005Payne/Sort">정렬(자바)</a></td>
+      </tr>
+        <td align="center"><a href="https://github.com/2005Payne/OracleSql">오라클SQL</a></td>
+      </tr>
       <tr align="center">
         <th colspan="2">보안 공부중</th>
       </tr>
