@@ -58,6 +58,9 @@
       </tr>
         <td align="center"><a href="https://github.com/2005Payne/OracleSql">오라클SQL</a></td>
       </tr>
+      </tr>
+        <td align="center"><a href="https://github.com/2005Payne/JAVADB">자바 데이터베이스 연동</a></td>
+      </tr>    
       <tr align="center">
         <th colspan="2">보안 공부중</th>
       </tr>
